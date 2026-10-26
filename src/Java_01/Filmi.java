@@ -1,4 +1,4 @@
-package Java_02;
+package Java_01;
 
 public class Filmi {
     String titulli;
